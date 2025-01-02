@@ -1,8 +1,8 @@
 # Hangman-Game
-<h2>📍 Python Mini Project</h2>
-<hr>
+📍 Python Mini Project
 Programming <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-<hr>
-simple hangman-game
+개요
+Python GUI를 활용한 행맨 게임이다.
+
 
 
