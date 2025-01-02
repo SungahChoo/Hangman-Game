@@ -1,10 +1,11 @@
 # Hangman-Game
-
+<h3>사용 언어</h3>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<hr/>
 <h3>개요</h3>
 <p>📍 Python Mini Project</p>
 <p>📍 Python GUI를 활용한 행멘 게임이다.</p>
-
+<hr/>
 <h3>주요 실행 화면</h3>
 <img width="520" alt="스크린샷 2025-01-02 오후 5 15 14" src="https://github.com/user-attachments/assets/b1cf4032-01c1-423b-aaee-9b773375c89a" />
 <img width="946" alt="스크린샷 2025-01-02 오후 5 16 30" src="https://github.com/user-attachments/assets/5b2e740c-c490-438f-aae6-153b1616f71e" />
