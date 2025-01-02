@@ -1,7 +1,6 @@
 # Hangman-Game
 <div align="center">
-<h2>사용 언어</h2>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<h2>사용 언어</h2> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 
 <h2>개요</h2>
 <p>🚀 Python Mini Project</p>
